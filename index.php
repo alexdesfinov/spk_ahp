@@ -10,8 +10,8 @@ if (empty($_SESSION['login']))
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="icon" href="favicon.ico" />
-  <link rel="icon" href="favicon.ico" />
+  <link rel="icon" href="bpjn.ico" />
+  <link rel="icon" href="bpjn.ico" />
 
   <title>SPK AHP PENILIAIAN KINERJA KARYAWAN</title>
   <link href="assets/css/sandstone-bootstrap.min.css" rel="stylesheet" />
